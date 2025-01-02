@@ -1,0 +1,7 @@
+server:
+  port: 
+
+logging:
+  level:
+    root: 
+    com.example: 
